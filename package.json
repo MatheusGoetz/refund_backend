@@ -1,0 +1,9 @@
+{
+	"name": "refund-2.0-backend",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {},
+	"author": "Matheus Goetz",
+	"license": "ISC",
+	"description": "API para sistema de reembolso"
+}
