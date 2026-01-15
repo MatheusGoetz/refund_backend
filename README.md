@@ -37,7 +37,6 @@ Ideal para:
 - **Express**
 - **ORM** (Prisma / Sequelize / TypeORM — conforme configuração do projeto)
 - **Banco de dados relacional**
-- **dotenv** para variáveis de ambiente
 
 ---
 
